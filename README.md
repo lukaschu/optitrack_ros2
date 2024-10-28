@@ -7,4 +7,4 @@ A tutorial can be found here: https://mocap4ros2-project.github.io/tutorials/ind
 
 Plug in:
 export LD_LIBRARY_PATH=path_to_lib_Nat_Net.so/:$LD_LIBRARY_PATH
-export LD_LIBRARY_PATH=/home/lukas_schueepp/workfolder/opti_ws/src/optitrack_ros2/mocap4ros2_optitrack/mocap4r2_optitrack_driver/NatNetSDK/lib//:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=/home/$usr_name$/workfolder/opti_ws/src/optitrack_ros2/mocap4ros2_optitrack/mocap4r2_optitrack_driver/NatNetSDK/lib//:$LD_LIBRARY_PATH
